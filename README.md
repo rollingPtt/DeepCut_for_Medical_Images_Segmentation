@@ -1,6 +1,6 @@
 # DeepCut_for_Medical_Images_Segmentation
 
-by 1ch 2025.11.7 for "Machine Learning and Medical Image Analysis"（机器学习及其医学图像分析）
+by 1ch 2025.11.7 for "Machine Learning and Medical Image Analysis"（机器学习及医学图像分析）
 
 其中 `segment.py`, `util.py`, `features_extract.py` 三个文件相比于原始代码有所修改；
 
